@@ -1,0 +1,8 @@
+{
+	"compilerOptions": {
+		// 컴파일할때 부가적으로 추가하는 옵션
+		"allowJs": true,
+		"checkJs": true,
+		"noImplicitAny": true,
+	}
+}
